@@ -21,8 +21,7 @@ if (a > b) {
 (a > b) ? console.log('hancor deh'): console.log('hahaha')
 
 // level 3
-var baterai = 70
-
+var baterai = 40
 if (baterai > 50 && baterai < 100) {
   console.log('Nanti saja charge HP')
 } else {
