@@ -28,3 +28,10 @@ if (baterai > 50 && baterai < 100) {
 } else {
   console.log('Siapkan charger anda')
 }
+
+// level 4
+function hitung(x, y) {
+  return x + y
+}
+
+console.log(hitung(10, 20))
